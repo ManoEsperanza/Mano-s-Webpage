@@ -3,15 +3,14 @@ main {
   height: 100vh;
   background-repeat :no-repeat; 
   background-size: contain; 
-  
-
 }
 
 
 
 
-/* font-family: "Playwrite MX", */
-/* cursive;
+ body {: "Playwrite MX", 
+ cursive;
 font-optical-sizing: auto;
 font-weight: <weight>;
-150 font-style: normal; */ 
+150 font-style: normal;  
+}
