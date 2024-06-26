@@ -8,7 +8,8 @@ main {
 
 
 
- body {: "Playwrite MX", 
+ body {
+  : "Playwrite MX", 
  cursive;
 font-optical-sizing: auto;
 font-weight: <weight>;
