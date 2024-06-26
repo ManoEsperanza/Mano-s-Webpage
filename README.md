@@ -15,4 +15,3 @@ Mano Esperanza's web page for fans to ask questions and get info and tickets for
 
 ## References
 Google
-w3schools
