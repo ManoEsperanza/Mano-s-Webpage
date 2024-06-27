@@ -26,6 +26,15 @@ font-optical-sizing: auto;
 font-weight:400;
 font-style: normal;  
  }
+  
+h1,p {
+  
+    font-family: "Playwrite NZ", cursive;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: bold;
+  }
+
 
 input[type=text], select, textarea {
   width: 100%; 
